@@ -38,6 +38,10 @@
             <artifactId>org.eclipse.transformer</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.eclipse.transformer</groupId>
+            <artifactId>org.eclipse.transformer.jakarta</artifactId>
+        </dependency>
+        <dependency>
             <groupId>org.wildfly.extras.batavia</groupId>
             <artifactId>transformer-api</artifactId>
         </dependency>
